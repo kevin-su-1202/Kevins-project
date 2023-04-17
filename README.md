@@ -1,1 +1,2 @@
 # Kevins-project
+大家好，我在GitHub上分享了我利用Python學習Stanford的Karel程式教程的成果。我放上了BeeperRowAdv、DoubleBeepers和Steeplechase這三個相對較為困難的關卡的程式碼，希望能夠幫助其他學習者。Karel是一個非常有趣的程式語言，他能夠幫助我們更好地理解計算機科學中的概念和原理。如果你也想學習Karel，歡迎來我的GitHub上查看我的程式碼。謝謝！
